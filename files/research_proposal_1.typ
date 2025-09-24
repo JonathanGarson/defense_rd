@@ -21,29 +21,26 @@ We propropose to explore different mechanisms of crowding-in effect:
 
 == Project B : Spin-in & Spin-off in the Military sector
 
-A focus on the opening of early financing for firms with dual uses goods product. In 2021 the governement has started financing the Defense Investment Fund (_Fonds Innovation Défense_) specialy targeted to innovative dual-uses firms in their early development stages and industrialization process. 
+A focus on the opening of early financing for firms with dual uses goods product. In 2021 the governement has started financing the Defense Investment Fund (_Fonds Innovation Défense_) specialy targeted to innovative dual-uses firms in their early development stages and industrialization process.
 
 == Project C : Anticipated Demand, Investment and Growth in the Military Industry 
 
-An important aspect of the question is *anticipated demand* that firm will face in their investment choice. If firms obtaining government grant consider it as a future signal of demand for a specific good from the MoD then winning government fund is the same as facing "guaranteed demand. They are incentivize to top-up government fund to secure future procurement contract @belenzonGuaranteedMarketsCorporate2024. Further research have showed that demand for experimental product is crucial so that new technology can  grow to maturity and survive against more mature incumbant technology. Historically the MoD by their procurement in innovative equipments has played this "consumer in first resort" role to forster innovation @malerbaDemandInnovationDynamics2007 @moweryChapter29Military2010.
+An important aspect of the question is *anticipated demand* that firm will face in their investment choice. If firms obtaining government grant consider it as a future signal of demand for a specific good from the MoD then winning government fund is the same as facing "guaranteed demand". They are incentivize to top-up government fund to secure future procurement contract @belenzonGuaranteedMarketsCorporate2024. Further research have showed that demand for experimental product is crucial so that new technology can  grow to maturity and survive against more mature incumbant technology. Historically the MoD by their procurement in innovative equipments has played this "consumer in first resort" role to forster innovation @malerbaDemandInnovationDynamics2007 @moweryChapter29Military2010. Theoretical results from @belenzonGuaranteedMarketsCorporate2024 showed that larger firms with production capacities and upstream in the innovation channel are more likely to benefit from "guaranteed demand" mechanisms. Recent reforms of R&D funding that separate demand from R&D might lead to growth of SME.
 
-== Project C : Credit Constraint, R&D, and firm's growth in the Defense Industry
+== Project D : Credit Constraint, R&D, and firm's growth in the Defense Industry
 
-An explanation for the R&D crowdin-in effect can be the cred
-
-= Draft
-
-Our first objective is to understand how the direct spending in military activities circulate in the defense economy, resulting in innovation. We provide an extra-focus on the role of public labs and subcontracting firms in the innovation process, since given the market structure, large dominating firms are mainly technological integrator.
-
-Second, we want to understand by a patent analysis the mechanisms that favorise the transmission of military innovation to the civilian industries (_spin-off_), and conversely the channels of transmission of the civilian industry to the military (_spin-in_). This last channels stay largely not discussed by the literature. Is it due to hiring researchers, subcontracting with public labs, or building research facilities, or more mechanical regional spill-over effect.
-
-A sensical, follow up question is to compare these direct spending efficiency to more classical tax credit incentives. Tax credit and direct spending do not answer to similar issues faced by firms, especially credit constraint. Firms that are credit constraints are limited  by the amount of money they can borrow, leading them to rely on the state for investment. A subquestion is whether firms with credit constraint are constrained because of demand factors (small market monopsonitic market & highly concentrated) or due to bank discrimination/lack of investment of SME of the defense industry.
-
-A complementary question but maybe not to be tackled here is the question of the impact of demand on learning-by-doing and then TFP growth vs innovation impact on TFP growth.
-
-Another paper might consider using the creation of the Fond d'Innovation Défense, a public fund focused on dual technology firms, to assess the importance of venture capitalist investment in firm growth trajectory.
+An explanation for the R&D crowdin-in effect can be the cred. A natural experiment to this credit relax could be the creation of DefInvest fund which aims at supporting SME in their growth paths. Another natural experiment could be the Ukrainian war and surge in demand (or more easily the stabilisation of public procurement after 2015). 
 
 = Data
+
+1. Data on firm innovation expenditures : Enquête sur les dépenses de R&D des entreprises (MESRI)
+
+2. Data on Credit constraints & firm financial situation : FARE
+
+3. Data on workers of those firms to control for change in employment structure : BTS
+
+4. Data on MoD procurement to control for potential demand : Chorus
+
 
 = Methods
 
