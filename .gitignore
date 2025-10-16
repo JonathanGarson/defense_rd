@@ -1,10 +1,13 @@
 # History files
 .Rhistory
 .Rapp.history
+config.R
+.Rprofile
 
 # Session Data files
 .RData
 .RDataTmp
+.DS_Store
 
 # User-specific files
 .Ruserdata
@@ -47,3 +50,14 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# General Files
+*.pdf
+*.typ
+
+# General Data
+*.csv
+*.xls
+*.xlsx
+*.dta
+*.txt
