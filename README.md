@@ -1,3 +1,3 @@
 # Defense R&D
 
-This paper replicates and extend the findings of Moretti & al (2022).
+This paper explores the impact of public R&D spending in the Defense industry spillsover and might crowdin public investment
