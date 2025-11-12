@@ -52,8 +52,7 @@ po/*~
 rsconnect/
 
 # General Files
-*.pdf
-*.typ
+
 
 # General Data
 *.csv
@@ -61,3 +60,5 @@ rsconnect/
 *.xlsx
 *.dta
 *.txt
+*.docx
+*.pdf
